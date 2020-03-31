@@ -7,7 +7,7 @@ Usage:
 
     package main
     import (
-      "github.com/jackdanger/collectlinks"
+      "github.com/nsiskind/collectlinks"
       "net/http"
       "fmt"
     )
